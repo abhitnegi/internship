@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/internship/static/css/main.2244e6ac.css",
+    "main.js": "/internship/static/js/main.4b0ae23d.js",
+    "static/media/1.png": "/internship/static/media/1.245723388d7385568a5c.png",
+    "static/media/snip.JPG": "/internship/static/media/snip.04283047cdbfaec5f349.JPG",
+    "static/media/google.webp": "/internship/static/media/google.b7e445840f3405ac5f40.webp",
+    "index.html": "/internship/index.html",
+    "main.2244e6ac.css.map": "/internship/static/css/main.2244e6ac.css.map",
+    "main.4b0ae23d.js.map": "/internship/static/js/main.4b0ae23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2244e6ac.css",
+    "static/js/main.4b0ae23d.js"
+  ]
+}
